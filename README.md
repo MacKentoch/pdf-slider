@@ -25,7 +25,7 @@
 
 ## Screenshot
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
+![pdf slider demo](https://cloud.githubusercontent.com/assets/11223428/25696670/520e1216-30b8-11e7-9f09-594a41a0feac.gif)
 
 ## Install
 
