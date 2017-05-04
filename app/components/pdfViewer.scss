@@ -1,0 +1,40 @@
+.pdfViewerContainer {
+	min-height: 100vh;
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+}
+
+.pdfViewerTitleContainer {
+	position: fixed;
+	top: 20px;
+	left: 30px;
+	z-index: 10;
+}
+
+.pdfViewerContentContainer {
+	display: flex;
+	flex: 4;
+	flex-direction: column;
+
+	// background-color: red;
+}
+
+
+.buttonContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.pdfSwipeableViewsContainer {
+	height: 630px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.black-icon {
+	color: #000;
+}

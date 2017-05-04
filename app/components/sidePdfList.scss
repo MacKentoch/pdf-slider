@@ -1,0 +1,27 @@
+.sidePdfListContainer {
+	z-index: 9;
+	position: fixed;
+	top: 0px;
+	padding-top: 80px;
+	left: -25px;
+	width: 120px;
+	overflow-x: hidden;
+	height: 100%;
+	background-color: #FFF;
+}
+
+.sideListItem {
+	transition-property: color, font-size;
+	transition-duration: 0.2s;
+	transition-timing-function: ease-in;
+}
+
+.sidePdfListDefaultItem {
+	color: #A4A4A4;
+	font-size: 11px;
+}
+
+.sidePdfListSelectedItem {
+color: #000;
+font-size: 12px;
+}
