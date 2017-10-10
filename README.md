@@ -1,7 +1,14 @@
-# electron-react-boilerplate
+# pdf-slider
 
-### A Boilerplate for Scalable Cross-Platform Desktop Apps
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/pdf-slider'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/pdf-slider.svg' />
+</a>
 
+## Screenshot
+
+![pdf slider demo](https://cloud.githubusercontent.com/assets/11223428/25696670/520e1216-30b8-11e7-9f09-594a41a0feac.gif)
+
+> Based on electron-react-boilerplate
 <br/>
 
 [![Build Status][travis-image]][travis-url]
@@ -23,23 +30,11 @@
 
 [Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development
 
-## Screenshot
-
-![pdf slider demo](https://cloud.githubusercontent.com/assets/11223428/25696670/520e1216-30b8-11e7-9f09-594a41a0feac.gif)
 
 ## Install
 
 * **Note: requires a node version >= 6 and an npm version >= 3.**
 * **If you have installation or compilation issues with this project, please see [our debugging guide](https://github.com/chentsulin/electron-react-boilerplate/issues/400)**
-
-First, clone the repo via git:
-
-```bash
-git clone --depth=1 https://github.com/chentsulin/electron-react-boilerplate.git your-project-name
-```
-
-And then install dependencies.
-**ProTip**: Install with [yarn](https://github.com/yarnpkg/yarn) for faster and safer installation:
 
 ```bash
 $ cd your-project-name && npm install
